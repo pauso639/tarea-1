@@ -1,0 +1,27 @@
+Algoritmo ejercicio_1
+	
+	Definir num Como Entero
+	
+	Escribir "Ingrese un numero: "
+	Leer num
+	
+	Si num > 0 Entonces
+		
+		
+		Escribir "El numero ", num, " es positivo"
+		
+	SiNo
+		
+		Si num < 0 Entonces
+			
+			Escribir "El numero ", num, " es negativo"
+			
+		SiNo
+			
+			Escribir "El numero es 0"
+			
+		FinSi
+		
+	FinSi
+	
+FinAlgoritmo
